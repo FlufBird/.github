@@ -1,4 +1,4 @@
-## **⚠️ DISCLAIMER: None of these are available yet, the project is in heavy (and quite slow) development. Stay tuned! ;)**
+## **⚠️ DISCLAIMER: None of these are available yet, the project is in heavy (and quite slow) development. So stay tuned! ;)**
 
 <p align="center">
 	<a href="https://mozuli.deta.dev" target="_blank">
