@@ -2,7 +2,7 @@
 
 <p align="center">
 	<a href="https://mozuli.deta.dev" target="_blank">
-		<img src="mozuli.svg" width="150">
+		<img src="https://github.com/Mozuli/.github/blob/main/profile/mozuli.svg" width="150">
 	</a>
 </p>
 
