@@ -1,7 +1,7 @@
 ### **⚠️ DISCLAIMER: None of these are yet available or ready for usage, the project is in heavy (and quite slow) development. So stay tuned! ;)**
 
 <p align="center">
-	<a href="https://mozuli.deta.dev" target="_blank">
+	<a href="https://flufbird.deta.dev" target="_blank">
 		<img src="https://github.com/Mozuli/.github/blob/main/profile/flufbird.svg" width="150">
 	</a>
 </p>
