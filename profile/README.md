@@ -2,7 +2,7 @@
 
 <p align="center">
 	<a href="https://flufbird.deta.dev" target="_blank">
-		<img src="https://github.com/Mozuli/.github/blob/main/profile/flufbird.svg" width="150">
+		<img src="https://github.com/Mozuli/.github/blob/main/profile/flufbird.svg" width="200">
 	</a>
 </p>
 
