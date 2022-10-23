@@ -1,4 +1,4 @@
-### **⚠️ DISCLAIMER: None of these are yet available or ready for usage, the project is in heavy (and quite slow) development. So stay tuned! ;)**
+### **⚠️ DISCLAIMER: None of these are yet available or ready for usage, the project is under heavy (and quite slow) development. So stay tuned! ;)**
 
 <p align="center">
 	<a href="https://flufbird.deta.dev" target="_blank">
