@@ -18,4 +18,4 @@ This organization is dedicated to host all the source code (Both the [client](ht
 
 ## Interested?
 
-For more informations, visit [our website](https://flufbird.deta.dev).
+For more informations, visit [our website](https://flufbird.is-an.app).
