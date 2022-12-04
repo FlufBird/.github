@@ -10,7 +10,7 @@
 
 ## What is it?
 
-FlufBird is an open source chatting application inspired by Discord for you to communicate with people you love.
+FlufBird is an open-source chatting application for you to communicate with people you love.
 
 ## GitHub Organization
 
