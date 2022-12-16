@@ -1,8 +1,8 @@
 ### **⚠️ DISCLAIMER: None of these are yet available or ready for usage, the project is under heavy and slow development. So stay tuned! ;)**
 
 <p align="center">
-	<a href="https://flufbird.deta.dev" target="_blank">
-		<img src="https://github.com/Mozuli/.github/blob/main/profile/logo.svg" width="250">
+	<a href="https://flufbird.is-an.app" target="_blank">
+		<img src="https://github.com/FlufBird/.github/blob/main/profile/logo.svg" width="250">
 	</a>
 </p>
 
