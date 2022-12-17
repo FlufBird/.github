@@ -2,7 +2,7 @@
 
 <p align="center">
 	<a href="https://flufbird.is-an.app" target="_blank">
-		<img src="https://github.com/FlufBird/.github/blob/main/profile/logo.svg" width="200">
+		<img src="https://github.com/FlufBird/.github/blob/main/profile/logo.svg" width="300">
 	</a>
 </p>
 
