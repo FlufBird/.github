@@ -8,13 +8,13 @@
 
 # Welcome to FlufBird!
 
-## What is it?
+## What is It?
 
 FlufBird is an open-source chatting application for you to communicate with people you love.
 
 ## GitHub Organization
 
-This organization is dedicated to host all the source code (Both the [client](https://github.com/FlufBird/client) and [server](https://github.com/FlufBird/server)) of FlufBird and provide [client downloads](https://github.com/FlufBird/client/releases), we provide both development builds (Alpha and Beta) and production builds.
+This organization is dedicated to hosting all the source code of FlufBird and provide [downloads for our client](https://github.com/FlufBird/client/releases).
 
 ## Interested?
 
